@@ -36,6 +36,7 @@
 .more-suggestions__icon {
   margin-right: 30px;
   display: flex;
+  
   flex-direction: column;
   align-items: center;
 }
@@ -54,4 +55,8 @@
 .more-suggestions__icon-image i {
   font-size: 32px;
   color: white;
+}
+
+.more-suggestions__icon-text {
+  text-align: center;
 }
